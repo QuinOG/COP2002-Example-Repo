@@ -1,5 +1,6 @@
-Python 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> # Creating a project for GitHub
-... # By Quinlan Davis
-...  
+# Creating a project for GitHub
+# By Quinlan Davis
+
+print("COP2002 Fall 2024")
+
+print("I'm understanding how to use GitHub to keep track of changes!")
